@@ -22,11 +22,3 @@ This version was created to assist in development and learning. Feel free to mod
 - Ideal for learning and development purposes.
 
 © 2024 [Leopardus team](https://leopardusteam.com). All rights reserved.
-
----
-
-### Important Licensing Information
-
-Some of the original Jasper Retro Converter's source code is available on [GitHub](https://github.com/5gdaroca/Jasper-Retro-Converter), but please be aware that only the OpenJRC version can be freely modified and distributed. It is strictly forbidden to modify or distribute the original Jasper Retro Converter without permission, and any unauthorized use will lead to consequences.
-
-To access the full version of Jasper Retro Converter with all features and higher quality, please download it from the [official website](https://jasper.rf.gd/). The GitHub version is intentionally incomplete, containing only parts of the source code, and is not open-source.
