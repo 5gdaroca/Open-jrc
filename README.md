@@ -5,7 +5,7 @@ Welcome to the download page of OpenJRC, the open-source version of Jasper Retro
 ## Download Now
 The full version of the original Jasper Retro Converter is available on [the program website](https://jasper.rf.gd/), but you can download the OpenJRC version right here. 
 
-You can also [Download OpenJRC in the official website](https://jasper.rf.gd/openjrc)
+You can also [Download OpenJRC in the official website](https://jasper.leopardusteam.com/openjrc)
 
 ## About OpenJRC
 
