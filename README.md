@@ -10,15 +10,18 @@ You can also [Download OpenJRC in the official website](https://jasper.leopardus
 ## About OpenJRC
 
 OpenJRC is a simplified, open-source version of the Jasper Retro Converter. Designed with a rustic TKinter interface, it only works with images and uses the NES palette, meaning the quality of the results may be significantly lower than what you might expect. However, OpenJRC still allows you to convert image bits effectively!
-
 This version was created to assist in development and learning. Feel free to modify and distribute OpenJRC, as long as it's not for commercial purposes and proper credit is given to the Indie Leopardus team.
 
 ⚠️ **Important Note:** We do not recommend using OpenJRC for high-quality retro conversions. For such purposes, we suggest using the full version of Jasper Retro Converter, available on our main site. The complete version allows you to create your own styles and palettes, offers multiple palette and style options, and even provides a "no style" option for advanced conversion of videos and photos.
+
+![Bliss Converted](https://jasper.leopardusteam.com/bliss-converted.jpg)
 
 ## Features of OpenJRC
 
 - Converts images using the NES palette.
 - Simplified interface with basic functionalities.
 - Ideal for learning and development purposes.
+
+![Jasper Logo](https://jasper.leopardusteam.com/images/jasper.png)
 
 © 2024 [Leopardus team](https://leopardusteam.com). All rights reserved.
